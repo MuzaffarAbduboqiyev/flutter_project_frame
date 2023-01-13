@@ -1,0 +1,16 @@
+{
+  "error": {
+    "permission_error": {
+      "storage_error": "Yuklab olishga ruxsat berilmadi, qayta urinib ko‘ring"
+    },
+    "download_error": {
+      "not_downloaded": "При загрузке файла произошла ошибка!"
+    }
+  },
+
+  "success": {
+    "download_success": {
+      "downloaded": "Fayl yuklab olindi!"
+    }
+  }
+}

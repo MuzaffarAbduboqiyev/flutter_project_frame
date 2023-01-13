@@ -1,0 +1,45 @@
+{
+  "error": {
+    "permission_error": {
+      "download_error": "Загрузка не разрешена, попробуйте еще раз"
+    },
+    "network": {
+      "connection_timeout": "Исключение времени ожидания соединения",
+      "no_internet": "Устройство не подключено к Интернету",
+      "server_error": "Нет связи с сервером",
+      "canceled": "Запрос отменен"
+    },
+    "page": {
+      "page_not_found": "Страница не найдена"
+    },
+    "validation": {
+      "validation_first": "Не менее ",
+      "validation_second": " символов",
+      "empty": "Не должно быть пустым"
+    }
+  },
+  "success": {
+    "success": "Успешно",
+    "download_success": {
+      "downloaded": "Файл успешно скачан!"
+    }
+  },
+  "dashboard": {
+    "home": "Главное",
+    "sale": "Продажа",
+    "incoming": "Приход",
+    "orders": "Заказы",
+    "other": "Другое"
+  },
+  "button": {
+    "back": "Назад",
+    "onward": "Далее"
+  },
+  "refresh": {
+    "refreshing": "Освежающий",
+    "completed": "Завершено",
+    "failed": "Не удалось",
+    "release": "Выпустить",
+    "idle": "Загрузка"
+  }
+}

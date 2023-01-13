@@ -1,0 +1,12 @@
+{
+  "error": {
+    "permission_error": {
+      "download_error": "The download was not allowed, please try again"
+    }
+  },
+  "success": {
+    "download_success": {
+      "downloaded": "File downloaded successfully!"
+    }
+  }
+}
